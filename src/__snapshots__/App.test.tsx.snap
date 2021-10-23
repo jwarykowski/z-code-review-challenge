@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders app component 1`] = `
+<main
+  class="sc-gKAaRy juboSr"
+>
+  <section
+    class="sc-hKFxyN bkcLYK"
+  >
+    <h1
+      class="sc-eCApnc hyoNyt"
+    >
+      User Types
+    </h1>
+    <label
+      class="sc-gtsrHT hzneWi"
+      for="Admin"
+    >
+      <input
+        checked=""
+        class="sc-dlnjwi gSXKlo"
+        data-testid="Admin"
+        id="Admin"
+        name="role"
+        type="radio"
+      />
+      <p
+        class="sc-bdnxRM bBxIvA"
+      >
+        Admin
+      </p>
+    </label>
+    <label
+      class="sc-gtsrHT iOKQHr"
+      for="Manager"
+    >
+      <input
+        class="sc-dlnjwi gSXKlo"
+        data-testid="Manager"
+        id="Manager"
+        name="role"
+        type="radio"
+      />
+      <p
+        class="sc-bdnxRM bBxIvA"
+      >
+        Manager
+      </p>
+    </label>
+  </section>
+  <hr
+    class="sc-jSFjdj frNedz"
+  />
+  <hr
+    class="sc-jSFjdj frNedz"
+  />
+</main>
+`;

@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders role list item component 1`] = `
+.c2 {
+  color: #212322;
+  font-size: 1.5em;
+}
+
+.c0 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #e8f2fb;
+  border-radius: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  margin-bottom: 1rem;
+  padding: 0rem 2rem;
+}
+
+.c0:last-child {
+  margin-bottom: 0;
+}
+
+.c1 {
+  height: 2rem;
+  margin: 0 1.5rem 0 0;
+  width: 2rem;
+}
+
+<label
+  class="c0"
+  for="Testing"
+>
+  <input
+    checked=""
+    class="c1"
+    data-testid="Testing"
+    id="Testing"
+    name="role"
+    type="radio"
+  />
+  <p
+    class="c2"
+  >
+    Testing
+  </p>
+</label>
+`;

@@ -1,0 +1,9 @@
+{
+  "short_name": "Z Review Challenge",
+  "name": "Zeller Code Review Challenge",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
