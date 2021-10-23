@@ -1,6 +1,7 @@
 import { useState } from "react";
 import styled from "styled-components";
 
+import CustomerList from "./components/Customerlist";
 import RoleList from "./components/RoleList";
 import { ZellerRoles } from "./types";
 import { ZELLER_ADMIN } from "./constants";
@@ -20,6 +21,7 @@ function App() {
     <Main>
       <RoleList role={role} setRole={setRole} />
       <HorizontalRule />
+      <CustomerList role={role} />
       <HorizontalRule />
     </Main>
   );
