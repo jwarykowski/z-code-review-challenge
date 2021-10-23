@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders customer list item component 1`] = `
+.c2 {
+  color: #212322;
+  font-size: 1.5em;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #e8f2fb;
+  border-radius: 0.5rem;
+  margin: 0 1.5rem 0 0;
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+.c3 {
+  color: #005cc8;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  margin: 0;
+  text-align: center;
+}
+
+.c5 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  margin: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: "row";
+  -ms-flex-direction: "row";
+  flex-direction: "row";
+  margin-bottom: 1.5rem;
+}
+
+.c0:last-child {
+  margin-bottom: 0;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <p
+      class="c2 c3"
+    >
+      J
+    </p>
+  </div>
+  <div
+    class="c4"
+  >
+    <p
+      class="c2 c5"
+    >
+      Jonathan Warykowski
+    </p>
+  </div>
+</div>
+`;
